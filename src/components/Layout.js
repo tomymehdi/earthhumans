@@ -49,7 +49,7 @@ const TemplateWrapper = ({ children }) => {
         />
       </Helmet>
       <Navbar />
-      <div className="has-navbar-fixed-top">{children}</div>
+      <div>{children}</div>
       <Footer />
     </div>
   );
