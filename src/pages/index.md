@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: A human with conscience is a world with health
-image: /img/home-jumbotron.jpg
+image: /img/home-banner1.jpg
 heading: A human with conscience is a world with health
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
